@@ -1,0 +1,1 @@
+   COMMON/GRID/ NI,NJ
